@@ -1,0 +1,4 @@
+﻿</startup>
+    <appSettings>
+      <add key ="StringConn" value ="Data Source=.;Initial Catalog=QL_BanSach;Integrated Security=True"></add>
+    </appSettings>

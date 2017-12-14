@@ -1,0 +1,5 @@
+F:\CongNghePhanMem\QL_BanSach\DAO\bin\Debug\DAO.dll
+F:\CongNghePhanMem\QL_BanSach\DAO\bin\Debug\DAO.pdb
+F:\CongNghePhanMem\QL_BanSach\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\CongNghePhanMem\QL_BanSach\DAO\obj\Debug\DAO.dll
+F:\CongNghePhanMem\QL_BanSach\DAO\obj\Debug\DAO.pdb

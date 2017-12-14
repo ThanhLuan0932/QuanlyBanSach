@@ -1,0 +1,9 @@
+F:\CongNghePhanMem\QL_BanSach\BUS\bin\Debug\BUS.dll
+F:\CongNghePhanMem\QL_BanSach\BUS\bin\Debug\BUS.pdb
+F:\CongNghePhanMem\QL_BanSach\BUS\bin\Debug\DAO.dll
+F:\CongNghePhanMem\QL_BanSach\BUS\bin\Debug\DTO.dll
+F:\CongNghePhanMem\QL_BanSach\BUS\bin\Debug\DAO.pdb
+F:\CongNghePhanMem\QL_BanSach\BUS\bin\Debug\DTO.pdb
+F:\CongNghePhanMem\QL_BanSach\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\CongNghePhanMem\QL_BanSach\BUS\obj\Debug\BUS.dll
+F:\CongNghePhanMem\QL_BanSach\BUS\obj\Debug\BUS.pdb

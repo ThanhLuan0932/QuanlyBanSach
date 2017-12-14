@@ -1,0 +1,5 @@
+F:\CongNghePhanMem\QL_BanSach\DTO\bin\Debug\DTO.dll
+F:\CongNghePhanMem\QL_BanSach\DTO\bin\Debug\DTO.pdb
+F:\CongNghePhanMem\QL_BanSach\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\CongNghePhanMem\QL_BanSach\DTO\obj\Debug\DTO.dll
+F:\CongNghePhanMem\QL_BanSach\DTO\obj\Debug\DTO.pdb
